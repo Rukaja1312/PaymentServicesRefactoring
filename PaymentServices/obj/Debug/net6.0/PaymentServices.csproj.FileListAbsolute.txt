@@ -1,0 +1,12 @@
+/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/bin/Debug/net6.0/PaymentServices.deps.json
+/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/bin/Debug/net6.0/PaymentServices.dll
+/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/bin/Debug/net6.0/PaymentServices.pdb
+/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/obj/Debug/net6.0/PaymentServices.csproj.AssemblyReference.cache
+/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/obj/Debug/net6.0/PaymentServices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/obj/Debug/net6.0/PaymentServices.AssemblyInfoInputs.cache
+/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/obj/Debug/net6.0/PaymentServices.AssemblyInfo.cs
+/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/obj/Debug/net6.0/PaymentServices.csproj.CoreCompileInputs.cache
+/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/obj/Debug/net6.0/PaymentServices.dll
+/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/obj/Debug/net6.0/refint/PaymentServices.dll
+/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/obj/Debug/net6.0/PaymentServices.pdb
+/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/obj/Debug/net6.0/ref/PaymentServices.dll

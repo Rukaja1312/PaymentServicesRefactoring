@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices.Test/PaymentServices.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices.Test/PaymentServices.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices.Test/PaymentServices.Test.csproj",
+        "projectName": "PaymentServices.Test",
+        "projectPath": "/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices.Test/PaymentServices.Test.csproj",
+        "packagesPath": "/Users/ivan.stoyanov/.nuget/packages/",
+        "outputPath": "/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ivan.stoyanov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/PaymentServices.csproj": {
+                "projectPath": "/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/PaymentServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/PaymentServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/PaymentServices.csproj",
+        "projectName": "PaymentServices",
+        "projectPath": "/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/PaymentServices.csproj",
+        "packagesPath": "/Users/ivan.stoyanov/.nuget/packages/",
+        "outputPath": "/Users/ivan.stoyanov/RiderProjects/PaymentServiceRefactoring/PaymentServices/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ivan.stoyanov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
